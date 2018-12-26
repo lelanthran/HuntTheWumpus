@@ -14,8 +14,8 @@ surface of a [dodecahedron](https://en.wikipedia.org/wiki/Regular_dodecahedron),
 aligned at the vertices of the dodecahedron.
 
 ## Layout
-There are twenty rooms, with each room connected to three other rooms.
-You're the intrepid adventurer in search of this magical beast.
+There are twenty named rooms, with each room connected to three other 
+rooms. You're the intrepid adventurer in search of this magical beast.
 Unfortunately there are dangers in the way:
 
 - Two of the rooms have bottomless pits. Entering these rooms result in
@@ -29,10 +29,10 @@ Unfortunately there are dangers in the way:
   unable to carry it off when it enters their rooms. Entering the room
   with the Wumpus results in your immediate death.
 
-## Hunting
+## Hunting the Wumpus
 You have unlimited *crooked arrows*, which can follow the curve of the
-dodcahedron if necessary. Your arrows, when fired, can pass through five
-rooms of your choice (provided they are all adjacent).
+dodcahedron if necessary. Your arrows, when fired, can pass through up to
+five rooms of your choice (provided they are all adjacent).
 
 Be warned, if your arrow misses the Wumpus, it will be alerted and will
 move to an adjacent room.
