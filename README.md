@@ -38,6 +38,6 @@ Be warned, if your arrow misses the Wumpus, it will be alerted and will
 move to an adjacent room.
 
 ## Development
-You can watch the initial development [on youtube] (https://youtu.be/dYDu9Hrg7yM).
+You can watch the initial development [on youtube](https://youtu.be/dYDu9Hrg7yM).
 I screencasted the 2.5 hours it took to write this game, and then doubled
 the speed of the video.
